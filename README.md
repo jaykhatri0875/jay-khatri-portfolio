@@ -1,6 +1,8 @@
 This is my data analytics portfolio. 
 Under construction will be updating soon !
 
+# [Find my resume here.](https://drive.google.com/file/d/1WlevnIthJzJ3ttiz4pI5oYw3-9Po-CwE/view) 
+
 # [Project 1: Sepsis prediction (Final year project)](https://github.com/jaykhatri0875) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
