@@ -1,2 +1,2 @@
-# jay_portfolio
+# Jay Khatri - Data analytics portfolio
 portfolio for my work 
