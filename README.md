@@ -1,5 +1,6 @@
 # Jay Khatri
-This is my data analytics portfolio
+This is my data analytics portfolio. 
+Under construction will be updating soon !
 
 # [Project 1: Sepsis prediction (Final year project)](https://github.com/jaykhatri0875) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
