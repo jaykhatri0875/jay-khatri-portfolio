@@ -1,4 +1,3 @@
-# Jay Khatri
 This is my data analytics portfolio. 
 Under construction will be updating soon !
 
