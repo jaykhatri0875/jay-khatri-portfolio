@@ -1,4 +1,4 @@
-# Welcome to my portfolio. 
+## Welcome to my portfolio. 
 > I am Jay, I work as Data Engineer at HSBC. 
 
 > Skills
