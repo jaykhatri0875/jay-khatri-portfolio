@@ -8,7 +8,7 @@
 
 > [Find my resume here.](https://drive.google.com/file/d/1AeTIJHB9wTVs4M9Pnq7sJn8PXB-KyJgb/view) 
 >
-##### These are some of my projects
+## These are some of my projects
 
 ## [Chatbot for BI reports](https://github.com/jaykhatri0875) 
 ![Chatbot design]()
