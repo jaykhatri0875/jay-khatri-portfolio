@@ -31,7 +31,7 @@
 * It is built using mediapipe, python, opencv. learned to fix together bunch of code in computer vision and it was ready to play some tunes.(do check it out if you're interested ) 
 
 ## [Project 5: Sepsis prediction](https://www.youtube.com/watch?v=FO7qGea7saE&ab_channel=jaykhatri)
-!(flow)[https://github.com/jaykhatri0875/jay-khatri-portfolio/blob/main/flowdiagram.png]
+![flowchart](https://github.com/jaykhatri0875/jay-khatri-portfolio/blob/main/flowdiagram.png)
 * This is final year project for BE, where we learned basics of feature engineering, deep learning and ML algorithms. 
 * This project is built using MIMIC III, open source public healthcare data set and inspired from GSOC problem statement
 * We analysed the data for sepsis and came with 94 features to train model on, trained 5 layer Neural network to get accuracy of ~78% and deployed the model for users to use over APIs. 
