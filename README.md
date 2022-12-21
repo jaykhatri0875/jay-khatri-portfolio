@@ -1,5 +1,5 @@
-
-> I am Jay, I work as Data Engineer at HSBC. 
+## Hi, I am Jay
+> I work as Data Engineer at HSBC. 
 
 > Skills
 > - Python, Django,Flask,SQL,Scala,Spark, ETL,NLP, DSA
