@@ -2,9 +2,9 @@
 > I am Jay, I work as Data Engineer at HSBC. 
 
 > Skills
-- Python, Django,Flask,SQL,Scala,Spark, ETL,NLP, DSA
-- Data analysis, BI reporting, KPI calculations, documentation and communication 
-- Git, intellij,vscode,jenkins
+> - Python, Django,Flask,SQL,Scala,Spark, ETL,NLP, DSA
+> - Data analysis, BI reporting, KPI calculations, documentation and communication 
+> - Git, intellij,vscode,jenkins
 
 ## [Find my resume here.](https://drive.google.com/file/d/1AeTIJHB9wTVs4M9Pnq7sJn8PXB-KyJgb/view) 
 ## There are some of my projects
