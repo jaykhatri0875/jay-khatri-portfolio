@@ -1,13 +1,7 @@
-## Hi, I am Jay
-> I work as Data Engineer at HSBC. 
+# Full Stack ML engineer
 
-> Skills
-> - Python, Django,Flask,SQL,Scala,Spark, ETL,NLP, DSA
-> - Data analysis, BI reporting, KPI calculations, documentation and communication 
-> - Git, intellij,vscode,jenkins
+#### Technical Skills: Python, SQL, Scala, Spark, pytorch, Backend development, computer vision methods, NLP,databases (postgres, oracle, teradata, MySQL, MS-SQL), Docker, CI CD - jenkins,GCP, AWS, Snowflake, ETL
 
-> [Find my resume here.](https://drive.google.com/file/d/1AeTIJHB9wTVs4M9Pnq7sJn8PXB-KyJgb/view) 
->
 ## These are some of my projects
 
 ## [Document chat & summarization using LLM and Vector database using RAG architecture]
