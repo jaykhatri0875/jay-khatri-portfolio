@@ -10,6 +10,18 @@
 >
 ## These are some of my projects
 
+## [Document chat & summarization using LLM and Vector database using RAG architecture]
+* Built chat and summarization application using LLM using python, Azure APIs, vector store, document extraction, GPT4/4o
+
+## [Document classification using VGG16 model]
+* As part of automating process flow, Built an classification system with 70+ labeled document dataset using VGG CNN architecture
+* Technologies used : Python, pytorch, FastAPI, Postgres DB, jenkins, GCP, Kubernetes, Docker
+
+## [Key information extraction from Documents]
+* As part of automating process flow, built key information Extraction using various image processing and OCR methods
+* Technologies used : python, tesseract, open-cv, OCR, layoutLM, fastAPI,,jenkins, GCP, Kubernetes, Docker
+
+
 ## [Chatbot for BI reports](https://github.com/jaykhatri0875) 
 ![Chatbot design]()
 * Designed and build chatbot to ease the access of BI reports in HSBC
